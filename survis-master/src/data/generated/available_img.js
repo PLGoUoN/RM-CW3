@@ -1,0 +1,1 @@
+const availableImg = ["1234","2005 IEEE","2020 IEEE Security and Privacy Workshops (SPW)","A Guide for HCI Researchers","Beck2016Visual","Designing for Repair","Digital inequalities in the Internet of Things","Exploring","Gender and Generational Differences in Consumers' Perceptions of Internet of Things (IoT)","Gender HCI What About the Software","Tanczer2018GenderAI"];
